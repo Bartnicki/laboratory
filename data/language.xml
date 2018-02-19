@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<class>
+    <language name = "en">
+        <skin1>skin 1</skin1>
+        <skin2>skin 2</skin2>
+        <skin3>skin 3</skin3>
+        <increase>Increase Item Quantity</increase>
+        <decrease>Decrease Item Quantity</decrease>
+        <working>Working / Broken</working>
+        <require>Require / Not</require>
+        <chooseRoom>Choose room:</chooseRoom>
+        <chooseStation>Choose station:</chooseStation>
+        <stationEquipment>Station equipment:</stationEquipment>
+        <stationID>Station ID</stationID>
+        <stationDesc>Station Descritpion</stationDesc>
+        <itemName>Item Name</itemName>
+        <itemStatus>Item Status</itemStatus>
+        <itemRequired>Item Required</itemRequired>
+        <quantity>Quantity</quantity>
+        <itemID>item ID</itemID>
+        <labelTwitter>Twitter:</labelTwitter>
+
+    </language>
+
+    <language name = "pl">
+        <skin1>motyw 1</skin1>
+        <skin2>motyw 2</skin2>
+        <skin3>motyw 3</skin3>
+        <increase>Inkrementuj ilość przedmiotu</increase>
+        <decrease>Dekrementuj ilość przedmiotu</decrease>
+        <working>Działa / Zepsuty</working>
+        <require>Wymagany / Niewymagany</require>
+        <chooseRoom>Wybierz salę:</chooseRoom>
+        <chooseStation>Wybierz stanowisko:</chooseStation>
+        <stationEquipment>Wyposażenie stanowiska:</stationEquipment>
+        <stationID>ID Stanowiska</stationID>
+        <stationDesc>Opis Stanowiska</stationDesc>
+        <itemName>Nazwa Przedmiotu</itemName>
+        <itemStatus>Status Przedmiotu</itemStatus>
+        <itemRequired>Czy wymagany?</itemRequired>
+        <quantity>Ilość</quantity>
+        <itemID>ID przedmiotu</itemID>
+        <labelTwitter>Twitter:</labelTwitter>
+    </language>
+</class>
