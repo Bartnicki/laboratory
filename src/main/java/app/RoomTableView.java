@@ -7,7 +7,6 @@ public class RoomTableView extends AbstractTableModel {
 
     private ArrayList<RoomDataModel> rooms = new ArrayList<RoomDataModel>();
 
-
     public int getRowCount() {
         return rooms.size();
     }
@@ -25,7 +24,7 @@ public class RoomTableView extends AbstractTableModel {
     @Override
     public String getColumnName(int column) {
         if(column == 0)
-            return "Numer Sali";
+            return "";
         else return "Nie znaleziono kolumny";
     }
 

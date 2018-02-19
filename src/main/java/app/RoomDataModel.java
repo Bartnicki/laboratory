@@ -6,7 +6,6 @@ public class RoomDataModel {
     private int roomNumber;
 
 
-
     public RoomDataModel(int roomID, int roomNumber){
 
         this.roomID = roomID;

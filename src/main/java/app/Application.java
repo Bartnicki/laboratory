@@ -1,19 +1,15 @@
 package app;
 
-
 import javax.swing.*;
 import java.awt.*;
+import java.io.IOException;
+
 
 public class Application extends JFrame{
 
-
-    public static void main(String[] args) {
-
+    public static void main(String[] args) throws IOException {
 
         Application apk = new Application();
-
-
-
 
     }
 
@@ -36,12 +32,10 @@ public class Application extends JFrame{
         GUI gui = new GUI();
 
         this.getContentPane().add(gui);
-
         this.setVisible(true);
 
-
-
-
     }
+
+
 
 }
